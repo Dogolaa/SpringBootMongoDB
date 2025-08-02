@@ -1,1 +1,1 @@
-# Repositório destinado para treinar SpringBoot com banco de dado não relacional
+# Repositório destinado para treinar SpringBoot com banco de dados não relacional
